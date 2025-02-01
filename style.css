@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    color: yellow;
+    text-align: center;
+    background-image: url(Assets/Image20250201140643.gif);
+}
+#name{
+    font-size: 20px;
+}
+#button1{
+    font-size: 20px;
+    background-color: yellow;
+}
+p{
+    font-size: 20px;
+}
